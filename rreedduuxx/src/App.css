@@ -1,0 +1,64 @@
+.layout{
+  height: 100%;
+  text-align: center;
+}
+#header{
+  
+  margin: 30px 150px 10px 150px ;
+  padding: 50px 100px 50px 100px;
+  border-radius: 30px;
+  border: 2px solid blue;
+}
+#maincontent{
+  width: 60%;
+  height: 100px;
+  padding: 150px 120px;
+  margin: 20px 1px 10px 150px;
+  border-radius: 30px;
+  border: 2px solid red;
+}
+#input{
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 100px;
+  padding: 100px 100px 200px 150px;
+  margin: 20px 150px 10px 10px;
+  font-size: 20px;
+  border-radius: 30px;
+  border: 2px solid green;
+}
+#footer{
+  margin: 20px 150px 10px 150px;
+  padding: 50px 100px 50px 100px;
+  border-radius: 30px;
+  border: 2px dotted black;
+
+}
+#content{
+  display: flex;
+}
+
+#content:hover{
+  color: red;
+  cursor: pointer;
+}
+
+label{
+  font-size: 25px;
+}
+
+input{
+  padding: 5px;
+  margin-top: 30px;
+  border-radius: 20px;
+
+}
+
+button{
+  padding: 5px;
+  margin-top: 30px;
+  border-radius: 20px;
+}
+
+
+
